@@ -12,7 +12,7 @@ Goal of this lab: build PHP environment & write simple PHP code
 >      lab9-exercise0.php  
 >      lab9-exercise1.php  
 
-DDL: 23:59:59  May 30th 2020  
+__DDL: 23:59:59  May 30th 2020__
 
 __Hint: Please contact us if you have any questions__  
 
@@ -65,7 +65,7 @@ You should install PHP first before this lab. If you have installed it, you can 
    select `+`,`Local or mounted folder`  
    Folder: select your project address  
    Web server url: `http://localhost:63342` (63342 is the port you set when you add configurations)  
-9. Click 'Apply',`OK`.  
+9. Click `Apply`,`OK`.  
                                                                                                                                                                                                                                                               
                                                                                                                                                                                                                                                                                             
 
