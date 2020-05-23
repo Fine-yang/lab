@@ -4,7 +4,7 @@
 
 Goal of this lab: build PHP environment & write simple PHP code  
 
->#####File Structure:  
+> ##### File Structure:  
 >
 >      /figures  
 >      /screenshots  
@@ -16,7 +16,7 @@ DDL: 23:59:59  May 30th 2020
 
 __Hint: Please contact us if you have any questions__  
 
-###Setting up PHP  
+### Setting up PHP  
 
 You should install PHP first before this lab. If you have installed it, you can skip this part and do exercises.  
 >#### For windows:  
@@ -26,17 +26,17 @@ You should install PHP first before this lab. If you have installed it, you can 
 >>Mac itself has php and apache service. So you can use PHP that comes with the system,   
 >or you can install  PHP by _XAMPP_ or terminal.  
 >>
->>####By XAMPP:  
+>>#### By XAMPP:  
 >>Be careful: Download `xx.installer.dmg` not `xx.vm.dmg`!!!  
 >>Once you installed, follow the [blog]() to open service.  
 >>You can also follow the [video](https://mooc1-1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=203371380&knowledgeId=147185698) to configure you `mysql`.  
 >
->>####Install PHP and Apache on Mac by terminal:(not recommended)  
+>>#### Install PHP and Apache on Mac by terminal:(not recommended)  
 >>You have to install mysql manually if you install php in this way.  
 >>You can follow the [link](https://www.hangge.com/blog/cache/detail_2333.html) to do this part.  
 >>_（Step 4 & 5 in this blog are optional)_  
 >
-###Build PhpStorm For Windows & Mac  
+### Build PhpStorm For Windows & Mac  
 1. Open PhpStorm and create a project.  
 2. Click `Add Configuration` on the upper right corner.  
 3. `+`,`PHP Built-in Web Server`, and edit the settings as following.    
@@ -69,11 +69,11 @@ You should install PHP first before this lab. If you have installed it, you can 
                                                                                                                                                                                                                                                               
                                                                                                                                                                                                                                                                                             
 
-###Exercise0: Test Environment  
+### Exercise0: Test Environment  
 Test your environment!  
 Here are two choices, and you just select one of them.  
 
->#####Choice 1:  
+>##### Choice 1:  
 > 1. move `lab9-exercise0.php` to php root directory.  
 >
 >   For Windows: `htdoc`s located in `X:\your_path\xampp\htdocs`    
@@ -83,7 +83,7 @@ Here are two choices, and you just select one of them.
 >      If terminal: root directory is `/usr/local/var/www`  
 >2. visit: <http://localhost/lab9-exercise0.php>  
 
->#####Choice 2:  
+>##### Choice 2:  
 >Since you have built the environment of PhpStorm, just configure this project and visit `lab9-exercise0.php` in browser via PhpStorm.  
 
 **Please save the screenshot and put it in directory** `/screenshots`  
@@ -130,4 +130,4 @@ You should see that the PHP echo statement prints out a string and that an echo 
     
     _Hint: leap years have an extra day in the year. Simply add one to the calculation!_
 
-Please save the screenshot and put it in directory `/screenshots`  
+**Please save the screenshot and put it in directory** `/screenshots`  
