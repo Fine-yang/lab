@@ -76,10 +76,10 @@ Here are two choices, and you just select one of them.
 >##### Choice 1:  
 > 1. move `lab9-exercise0.php` to php root directory.  
 >
->    For Windows: `htdoc`s located in `X:\your_path\xampp\htdocs`    
+>    For Windows: `htdocs` located in `X:\your_path\xampp\htdocs`    
 >   
 >    For Mac:   
->      If XAMPP: `htdoc`s located in `/Applications/XMAPP/htdocs/`    
+>      If XAMPP: `htdocs` located in `/Applications/XMAPP/htdocs/`    
 >      If terminal: root directory is `/usr/local/var/www`  
 >2. visit: <http://localhost/lab9-exercise0.php>  
 
